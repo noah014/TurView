@@ -1,0 +1,9 @@
+ai71
+pyttsx3
+flask
+faster-whisper
+docxtpl
+docx2pdf
+docx2txt
+PyPDF2
+flask_socketio
